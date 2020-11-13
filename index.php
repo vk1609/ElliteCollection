@@ -62,13 +62,7 @@
 
     </table>
     </div>
-    <?php
-    function pre_r(){
-        echo '<per>';
-        $array;
-        echo'</pre>';
-    }
-    ?>
+   
    
 
 
