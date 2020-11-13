@@ -5,3 +5,10 @@ A form using PHP and MYSQl.
 - A google captcha is given and he has to takeover that to submit his/her Info.
 - A table will be privided to see the details.
 - User can update or delete the details using the "DELETE" and "UPDATE" buttons.
+
+
+
+
+### Things to do
+- Email update has to be done.
+- Age calculation has to be done.
