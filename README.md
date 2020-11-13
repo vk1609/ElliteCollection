@@ -10,5 +10,5 @@ A form using PHP and MYSQl.
 
 
 ### Things to do
-- Email update has to be done.
-- Age calculation has to be done.
+- Email updation.
+- Age calculation.
