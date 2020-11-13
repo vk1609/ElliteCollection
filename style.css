@@ -1,0 +1,85 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@700&display=swap');
+body{
+    background-image: url(https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    height: 100%;
+    margin: 0;
+}
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    color: cornsilk;
+}
+input[type=text], select {
+  
+ 
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+
+  background-color: #00e6e6;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color:blanchedalmond;
+}
+
+div {
+  border-radius: 5px;
+
+  padding: 20px;
+}
+#table {
+    color: cornsilk;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: none;
+  }
+  
+  #table td, #table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #table tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #table tr:hover {background-color: rgb(196, 231, 160);}
+  
+  #table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:#00e6e6;
+    color: white;
+  }
+  button{
+    background-color: #00e6e6;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  button:hover{
+    background-color:blanchedalmond;
+  }
+  form{
+      margin: auto;
+      max-width: 400px;
+  }
