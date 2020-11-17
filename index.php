@@ -35,6 +35,7 @@
     <th colspan = "2">Action</th></tr>
     
     </thead>
+        //Below code is to display the data 
      <?php 
     while ($row = $result->fetch_assoc()){
 
@@ -67,7 +68,7 @@
 
 
     
-
+//Below code is to enter the details of user
 
         <form action="index.php" method = "POST">
         <label for="">NAME</label>  </br>
